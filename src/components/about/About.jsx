@@ -28,8 +28,10 @@ const About = () => {
             <Banner/>
             <Wrapper>
                 <Typography variant="h3">Code for Interview</Typography>
-                <Text variant="h5">I'm a Software Engineer based in India. 
-                    I've built websites, desktop applications and corporate software.<br />
+                <Text variant="h5">I am a Pre-Final Year Undergrad at IET Lucknow pursuing a Bachelor of Technology majoring in Computer Science Engineering. 
+I am highly interested in algorithmic problem-solving and have a firm grasp of data structures and algorithms. In my two years of experience in both practicing and teaching competitive programming, I have some excellent ranks in various coding competitions.
+I am also working as a problem-setter role at imocha. 
+So far, in my experience at IET Lucknow, I have learned various Computer Science fundamentals and practical interpersonal skills like teamwork, networking, and leadership.<br />
                     If you are interested, you can view some of my favorite projects here
                     <Box component="span" style={{ marginLeft: 5 }}>
                         <Link href="https://github.com/anupam577" color="inherit" target="_blank"><GitHub /></Link>
@@ -43,7 +45,7 @@ const About = () => {
                         </Link>
                     </Box>  
                         or send me an Email 
-                        <Link href="mailto:codeforinterview@gmail.com?Subject=This is a subject" target="_blank" color="inherit">
+                        <Link href="mailto:fracanupam577@gmail.com?Subject=This is a subject" target="_blank" color="inherit">
                             <Email />
                         </Link>.
                 </Text>
