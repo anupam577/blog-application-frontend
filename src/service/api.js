@@ -3,7 +3,7 @@ import axios from 'axios';
 import { API_NOTIFICATION_MESSAGES, SERVICE_URLS } from '../constants/config';
 import { getAccessToken, getRefreshToken, setAccessToken, getType } from '../utils/common-utils';
 
-const API_URL = 'https://blog-application-20xm.onrender.com';
+const API_URL = 'https://blog-application-o1bw.onrender.com';
 
 const axiosInstance = axios.create({
     baseURL: API_URL,
