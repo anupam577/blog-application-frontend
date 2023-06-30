@@ -27,7 +27,7 @@ const About = () => {
         <Box>
             <Banner/>
             <Wrapper>
-                <Typography variant="h3">Code for Interview</Typography>
+                <Typography variant="h3">Blog Application</Typography>
                 <Text variant="h5">I am a Pre-Final Year Undergrad at IET Lucknow pursuing a Bachelor of Technology majoring in Computer Science Engineering. 
 I am highly interested in algorithmic problem-solving and have a firm grasp of data structures and algorithms. In my two years of experience in both practicing and teaching competitive programming, I have some excellent ranks in various coding competitions.
 I am also working as a problem-setter role at imocha. 
